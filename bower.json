@@ -5,7 +5,7 @@
     "Rocky Garcia <purplyrocky@gmail.com>"
   ],
   "description": "An unploader that will convert files to base64 string",
-  "main": "file-uploader.js",
+  "main": "index.html",
   "license": "MIT",
   "ignore": [
     "**/.*",
