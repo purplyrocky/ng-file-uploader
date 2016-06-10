@@ -1,1 +1,1 @@
-# ng-file-uploader
+# ng-photo-uploader

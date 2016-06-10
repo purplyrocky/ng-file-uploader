@@ -1,10 +1,10 @@
 {
-  "name": "ng-file-uploader",
-  "homepage": "https://github.com/purplyrocky/ng-file-uploader",
+  "name": "ng-photo-uploader",
+  "homepage": "https://github.com/purplyrocky/ng-photo-uploader",
   "authors": [
     "Rocky Garcia <purplyrocky@gmail.com>"
   ],
-  "description": "An unploader that will convert files to base64 string",
+  "description": "An unploader that will convert photos to base64 string",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
