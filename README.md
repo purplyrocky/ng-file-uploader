@@ -9,6 +9,7 @@ link to `../bower_components/ng-photo-uploader/js/photo-uploader.js`
 add `'photo-uploader'` to your module
 
 add directive to html as an attribute `<input type="file" model="data" photo-uploader>`
+you can output your image using an image tag like this `<img ng-src="{{data}}">`
 
 right now, this directive changes whatever variable you set in `model`
 
